@@ -1,6 +1,6 @@
 ## Apple iPhone 15 Landing Page
 
-# Link: [Apple-iPhone15]{https://apple-iphone-krishna.netlify.app/}
+# Link: [Apple-iPhone15](https://apple-iphone-krishna.netlify.app/)
 
 
 # Introduction:
