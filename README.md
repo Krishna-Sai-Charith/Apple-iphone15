@@ -12,11 +12,11 @@ This project was a journey of learning and discovery, encompassing various aspec
 Special Thanks to Adrian Hajdin one of my favourite's in the field of mordern web development. 
 
 # Tech Stack
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-GSAP (Greensock)
-Vite
-Tailwind CSS
+1. React.js
+2. Three.js
+3. React Three Fiber
+4. React Three Drei
+5. GSAP (Greensock)
+6. Vite
+7. Tailwind CSS
 
